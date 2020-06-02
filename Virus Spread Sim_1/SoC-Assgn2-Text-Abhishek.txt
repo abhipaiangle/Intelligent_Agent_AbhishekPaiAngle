@@ -1,0 +1,2 @@
+Average value: 40.896
+Peak Value:1026.267
