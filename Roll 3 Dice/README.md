@@ -1,4 +1,5 @@
 # Task 1
+
 *Install R on your laptop
 *Model a simulation of rolling 3 dice 50 times
 *Run the simulations 10 times
