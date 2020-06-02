@@ -10,6 +10,7 @@ These are the projects or rather small assignments we have done during our Seaso
 * Admission Predict
 * Music Pattern predict
 * Virus Spread Sim_2
+* Product Research
 
 ### Individual Assignments
 * Roll 3 Dice
