@@ -24,7 +24,7 @@ X_train,X_test,y_train,y_test=train_test_split(X,y,test_size=0.20,random_state=0
 from sklearn.preprocessing import StandardScaler
 scx= StandardScaler()
 X_train=scx.fit_transform(X_train)
-X_test=scx.fit_transform(X_test)
+X_test=scx.transform(X_test)
 
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense
