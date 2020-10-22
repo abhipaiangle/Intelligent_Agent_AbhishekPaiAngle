@@ -1,4 +1,4 @@
-# Work Report of SOC Project Intelligent Agent
+# Intelligent Agent - Seasons of Code 2020
 
 These are the projects or rather small assignments we have done during our Seasons of Code 2020 organized by Web and Coding Club, IIT Bombay. We are a team of 10 with 1 mentor and 9 mentees.
 
